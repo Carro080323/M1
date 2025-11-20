@@ -21,4 +21,4 @@ namn = input("Skriv in ditt namn: ")
 print("Du heter " + namn)
 
 user_namn = input("Vad heter du? ")
-print("Välkommen",user_namn)
+print("Välkommen",namn)
